@@ -1,0 +1,16 @@
+Picture Resolutions:
+	VGA = 640 x 480 (pixels)
+	HD = 1280 x 720
+	FHD = 1920 x 1080
+	4K = 3840 x 2160
+	
+Binary Image:
+	A picture that contains only Black & White colors. So, each pixel has a value of '1' or '0' (2 Levels).
+
+Gray Scale Image:
+	A picture that contains 256 Levels (8 bit per pixel). We have a range of colors between Black{0} & White{255} (shades of gray).
+
+RGB (Full Color) Images:
+	These are composed of 3 Gray Scale Images representing the intensities of Red, Green and Blue.
+	RGB VGA = 640 x 480 x 3
+
