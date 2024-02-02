@@ -1,0 +1,5 @@
+Picture Resolutions:
+	VGA = 640 x 480
+	HD = 1280 x 720
+	FHD = 1920 x 1080
+	4K = 3840 x 2160
